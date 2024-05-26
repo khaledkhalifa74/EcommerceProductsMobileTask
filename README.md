@@ -1,17 +1,4 @@
 # ecommerce_products
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# ecommerce_products
+## App screen
+![WhatsApp Image 2024-05-26 at 4 20 26 PM](https://github.com/khaledkhalifa74/ecommerce_products/assets/96270919/e648867e-4123-419d-9329-f22a1a9d0402)
