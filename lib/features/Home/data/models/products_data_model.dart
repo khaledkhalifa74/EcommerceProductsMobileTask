@@ -52,7 +52,7 @@ class Data {
         subcategory!.add(Subcategory.fromJson(v));
       });
     }
-    ratingsQuantity = json['ratingsQuantity'];
+    ratingsQuantity = json['ratingsQuantity']?.toInt();
     sId = json['_id'];
     title = json['title'];
     slug = json['slug'];
@@ -64,7 +64,7 @@ class Data {
         ? Category.fromJson(json['category'])
         : null;
     brand = json['brand'] != null ? Category.fromJson(json['brand']) : null;
-    ratingsAverage = json['ratingsAverage'];
+    ratingsAverage = json['ratingsAverage']?.toDouble();
     createdAt = json['createdAt'];
     updatedAt = json['updatedAt'];
     id = json['id'];

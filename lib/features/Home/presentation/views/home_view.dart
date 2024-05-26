@@ -6,8 +6,11 @@ class HomeView extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: HomeViewBody(),
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Products'),
+      ) ,
+      body: const HomeViewBody(),
     );
   }
 }
